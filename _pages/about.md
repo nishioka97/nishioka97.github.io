@@ -16,9 +16,10 @@ Contact
 ========
 akatsuki_nishioka [at] mist.i.u-tokyo.ac.jp
 
+<!-- 
 Recent News
 ========
-<!-- <div style="overflow:scroll; width:100%; height:200px">  
+<div style="overflow:scroll; width:100%; height:200px">  
   <ul>
     <li> Dec. 2021: <a href="https://arxiv.org/abs/2112.14043"> New preprint ''Stable linear system identification with prior knowledge by elastic Riemannian sequential quadratic optimization'' is available on arXiv. </a>  </li>
     <li> Dec. 2021: One paper has been accepted by SIAM Journal on Optimization.  </li>
@@ -30,6 +31,7 @@ Recent News
     <li> Sep. 2020: <a href="https://arxiv.org/abs/2009.07153"> New preprint ''Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds'' is available on arXiv. </a> </li> 
     <li> Mar. 2020: Opened this website. </li>
   </ul>
-</div> -->
+</div>
+-->
 
 
