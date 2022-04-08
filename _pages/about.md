@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo, Japan. My research interests include topology optimization and mathematical optimization.
+My name is Akatsuki Nishioka (Japanese: 西岡 暁I am a Ph.D. student at Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo, Japan. My research interests include topology optimization and mathematical optimization.
 
 Supervisor: Professor [Yoshihiro Kannno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/)
 
