@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Graduate School of Information Science and Technology, The University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, traffic engineering and other fields.
+I am a Ph.D. student at Graduate School of Information Science and Technology, The University of Tokyo, Japan. My research interests include topology optimization and mathematical optimization.
 
-Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html)
+Supervisor: Professor [Yoshihiro Kannno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/)
 
 Contact
 ========
-mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
-
+akatsuki_nishioka [at] mist.i.u-tokyo.ac.jp
+<!-- 
 Recent News
 ========
 <div style="overflow:scroll; width:100%; height:200px">  
@@ -30,6 +30,6 @@ Recent News
     <li> Sep. 2020: <a href="https://arxiv.org/abs/2009.07153"> New preprint ''Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds'' is available on arXiv. </a> </li> 
     <li> Mar. 2020: Opened this website. </li>
   </ul>
-</div>
+</div> -->
 
 
