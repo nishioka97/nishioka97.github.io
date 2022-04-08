@@ -1,25 +1,13 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: " "
 permalink: /talks/
 author_profile: true
 ---
 
-<!-- ---
-layout: archive
-title: " "
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %} -->
-
 International Conference
 ======
-1. <ins>A. Nishioka</ins> and Y.~Kanno. Accelerated projected gradient method for compliance minimization problem, 14th World Congress of Structural and Multidisciplinary Optimization, Virtual, June 2021.
-
+1. <ins>A. Nishioka</ins> and Y. Kanno. Accelerated projected gradient method for compliance minimization problem, 14th World Congress of Structural and Multidisciplinary Optimization, Virtual, June 2021.
 
 Internal Conference
 ======
