@@ -14,7 +14,7 @@ Supervisor: Professor [Yoshihiro Kannno](https://www.or.mist.i.u-tokyo.ac.jp/kan
 
 Contact
 ========
-E-mail: akatsuki_nishioka [at] mist.i.u-tokyo.ac.jp <br>
+akatsuki_nishioka [at] mist.i.u-tokyo.ac.jp <br>
 [researchmap](https://researchmap.jp/nishioka97)
 
 <!-- 
