@@ -10,7 +10,7 @@ International Conference
 1. <ins>A. Nishioka</ins> and Y. Kanno. A smoothing method for worst-case topology optimization under load uncertainty, Asian Congress of Structural and Multidisciplinary Optimization 2022, Matsue, Japan, May 2022.
 1. <ins>A. Nishioka</ins> and Y. Kanno. Accelerated projected gradient method for compliance minimization problem, 14th World Congress of Structural and Multidisciplinary Optimization, Virtual, June 2021.
 
-Internal Conference
+Domestic Conference (Japan)
 ======
 1. <ins>西岡暁</ins>，寒野善博．ロバストトポロジー最適化問題に対する平滑化法，日本オペレーションズ・リサーチ学会2022年春季研究発表会，オンライン，2022年3月．
 1. <ins>西岡暁</ins>，寒野善博．トポロジー最適化問題に対する加速射影勾配法，日本オペレーションズ・リサーチ学会2021年秋季研究発表会，オンライン，2021年9月．
