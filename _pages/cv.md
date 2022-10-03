@@ -19,12 +19,14 @@ Education
   * Faculty of science and technology
   
 
-Work Experience
+Research Assistant, etc.
 ======
 * Apr. 2022 -- present: Fellowship for Creation of Intelligent World
   * International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 * Apr. 2022 -- present: Research Assistant in Value Exchange Engineering
   * Research Institute for an Inclusive Society thorough Engineering, The University of Tokyo
+* Oct. 2022 -- present: In Japanese: 特別共同利用研究員
+  * The Institute of Statistical mathematics
 
 <!--   
 Teaching
