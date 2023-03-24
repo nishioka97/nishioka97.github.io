@@ -10,10 +10,10 @@ redirect_from:
 
 Name: Akatsuki Nishioka (西岡 暁) <br>
 Nationality: Japanese <br>
-Affiliation: Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo
-Position: PhD student
-Supervisor: Professor [Yoshihiro Kannno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/)
-Research interests: topology optimization, optimization theory
+Affiliation: Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo <br>
+Position: PhD student <br>
+Supervisor: Professor [Yoshihiro Kannno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/) <br>
+Research interests: topology optimization, optimization theory <br>
 
 Contact
 ========
