@@ -13,7 +13,7 @@ redirect_from:
 * Affiliation: Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo
 * Position: PhD student
 * Supervisor: Professor [Yoshihiro Kannno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/)
-* Research interests: topology optimization, optimization theory
+* Research area: topology optimization, optimization theory
 
 Contact
 ========
