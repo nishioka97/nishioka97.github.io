@@ -21,6 +21,8 @@ Education
 
 Research Assistant, etc.
 ======
+* Apr. 2023 -- present: Research Fellowship for Young Scientists (DC2)
+  * Japan Society for the Promotion of Science
 * Oct. 2022 -- present: (In Japanese) 特別共同利用研究員
   * The Institute of Statistical mathematics
 * Apr. 2022 -- present: Fellowship for Creation of Intelligent World
