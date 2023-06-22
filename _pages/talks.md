@@ -7,6 +7,7 @@ author_profile: true
 
 International Conference
 ======
+1. <ins>A. Nishioka</ins>, M. Toyoda, M. Tanaka and Y. Kanno. Smoothing methods for some eigenvalue optimization problems in topology optimization, 15th World Congress of Structural and Multidisciplinary Optimization, Ireland, June 2023.
 1. <ins>A. Nishioka</ins> and Y. Kanno. Accelerated Projected Gradient Method for Heat Conduction Problem, 15th World Congress on Computational Mechanics & 8th Asian Pacific Congress on Computational Mechanics, Virtual, August 2022.
 1. <ins>A. Nishioka</ins> and Y. Kanno. A smoothing method for worst-case topology optimization under load uncertainty, Asian Congress of Structural and Multidisciplinary Optimization 2022, Matsue, Japan, May 2022.
 1. <ins>A. Nishioka</ins> and Y. Kanno. Accelerated projected gradient method for compliance minimization problem, 14th World Congress of Structural and Multidisciplinary Optimization, Virtual, June 2021.
