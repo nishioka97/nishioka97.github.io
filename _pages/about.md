@@ -18,7 +18,8 @@ redirect_from:
 Contact
 ========
 akatsuki_nishioka [at] mist.i.u-tokyo.ac.jp <br>
-[researchmap](https://researchmap.jp/nishioka97)
+[researchmap](https://researchmap.jp/nishioka97) <br>
+[ResearchGate](https://www.researchgate.net/profile/Akatsuki-Nishioka)
 
 <!-- 
 Recent News
