@@ -28,7 +28,7 @@ Research Assistant, etc.
 
 Awards
 ======
-* Presentation awards in Japanese conference
+* Presentation awards at Japanese conferences
   * 最適化の理論とアルゴリズム：未来を担う若手研究者の集い2023 優秀発表賞
   * 日本機械学会第32回設計工学・システム部門講演会 優秀講演フェロー（D&S2022）
 
