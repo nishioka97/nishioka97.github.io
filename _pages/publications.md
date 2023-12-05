@@ -10,6 +10,11 @@ Preprint
 ======
  -->
 
+Preprints
+======
+1. <ins>A. Nishioka</ins>, M. Toyoda, M. Tanaka and Y. Kanno. On a minimization problem of the maximum generalized eigenvalue: properties and algorithms. arXiv:2312.01603
+ [https://arxiv.org/abs/2312.01603](https://arxiv.org/abs/2312.01603)
+
 Papers
 ======
 1. <ins>A. Nishioka</ins> and Y. Kanno. Smoothing inertial method for worst-case robust topology optimization under load uncertainty, Structural and Multidisciplinary Optimization (2023). [https://doi.org/10.1007/s00158-023-03543-7](https://doi.org/10.1007/s00158-023-03543-7)
