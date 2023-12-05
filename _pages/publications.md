@@ -12,7 +12,7 @@ Preprint
 
 Preprints
 ======
-1. <ins>A. Nishioka</ins>, M. Toyoda, M. Tanaka and Y. Kanno. On a minimization problem of the maximum generalized eigenvalue: properties and algorithms. arXiv:2312.01603
+1. <ins>A. Nishioka</ins>, M. Toyoda, M. Tanaka and Y. Kanno. On a minimization problem of the maximum generalized eigenvalue: properties and algorithms. arXiv:2312.01603. 
  [https://arxiv.org/abs/2312.01603](https://arxiv.org/abs/2312.01603)
 
 Papers
