@@ -12,6 +12,8 @@ Preprint
 
 Preprints
 ======
+1. M. Toyoda, A. Nishioka and M. Tanaka. Convergence rate analysis of continuous- and discrete-time smoothing gradient algorithms. arXiv:2312.04192. 
+ [https://arxiv.org/abs/2312.04192](https://arxiv.org/abs/2312.04192)
 1. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. On a minimization problem of the maximum generalized eigenvalue: properties and algorithms. arXiv:2312.01603. 
  [https://arxiv.org/abs/2312.01603](https://arxiv.org/abs/2312.01603)
 
