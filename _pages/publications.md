@@ -12,6 +12,8 @@ Preprint
 
 Preprints
 ======
+1. A. Nishioka and Y. Kanno. A feasible smoothing accelerated projected gradient method for nonsmooth convex optimization. arXiv:2312.07050.
+ [https://arxiv.org/abs/2312.07050](https://arxiv.org/abs/2312.07050)
 1. M. Toyoda, A. Nishioka and M. Tanaka. Convergence rate analysis of continuous- and discrete-time smoothing gradient algorithms. arXiv:2312.04192. 
  [https://arxiv.org/abs/2312.04192](https://arxiv.org/abs/2312.04192)
 1. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. On a minimization problem of the maximum generalized eigenvalue: properties and algorithms. arXiv:2312.01603. 
