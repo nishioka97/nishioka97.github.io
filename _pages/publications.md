@@ -12,6 +12,8 @@ Preprint
 
 Preprints
 ======
+1. A. Nishioka and Y. Kanno. Variational analysis of unbounded and discontinuous generalized eigenvalue functions with application to topology optimization. arXiv:2405.04805.
+ [https://arxiv.org/abs/2405.04805](https://arxiv.org/abs/2405.04805)
 1. M. Toyoda, A. Nishioka and M. Tanaka. A unified Euler--Lagrange system for analyzing continuous-time accelerated gradient methods. arXiv:2404.03383.
  [https://arxiv.org/abs/2404.03883](https://arxiv.org/abs/2404.03383)
 1. A. Nishioka and Y. Kanno. A feasible smoothing accelerated projected gradient method for nonsmooth convex optimization. arXiv:2312.07050.
