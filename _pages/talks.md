@@ -7,6 +7,7 @@ author_profile: true
 
 International Conference
 ======
+1. A. Nishioka and Y. Kanno. Approximations of unbounded and discontinuous generalized eigenvalue functions in topology optimization, Asian Congress of Structural and Multidisciplinary Optimization 2024, Zhengzhou, China, May 2024. (Best student paper award)
 1. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. A first-order method for large-scale eigenvalue optimization problems in topology optimization, 10th International Congress on 
 Industrial and Applied Mathematics, Japan, August 2023.
 2. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. Smoothing methods for some eigenvalue optimization problems in topology optimization, 15th World Congress of Structural and Multidisciplinary Optimization, Ireland, June 2023.
@@ -14,8 +15,9 @@ Industrial and Applied Mathematics, Japan, August 2023.
 1. A. Nishioka and Y. Kanno. A smoothing method for worst-case topology optimization under load uncertainty, Asian Congress of Structural and Multidisciplinary Optimization 2022, Matsue, Japan, May 2022.
 1. A. Nishioka and Y. Kanno. Accelerated projected gradient method for compliance minimization problem, 14th World Congress of Structural and Multidisciplinary Optimization, Virtual, June 2021.
 
-Domestic Conference (Japan)
+Japanese Conference
 ======
+1. 西岡暁，寒野善博．非有界・不連続な一般化固有値関数の変分解析とトポロジー最適化への応用，最適化の理論とアルゴリズム：未来を担う若手研究者の集い 2024，茨城，2024年5月（優秀発表賞）．
 1. 西岡暁，寒野善博．実行可能な補助変数をもつ平滑化加速射影勾配法の収束解析，日本オペレーションズ・リサーチ学会2024年春季研究発表会，茨城，2024年3月．
 2. 豊田充，西岡暁，田中未来，オイラー-ラグランジュ方程式による統一的な加速勾配法の導出とリアプノフ関数の設計，日本応用数理学会，第20回研究部会連合発表会，新潟，2024年3月．
 3. 西岡暁，豊田充，田中未来，寒野善博．トラスの固有振動数最大化問題に対する平滑化法，第33回設計工学・システム部門講演会，石川，2023年9月．
