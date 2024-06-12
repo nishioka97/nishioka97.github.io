@@ -29,7 +29,7 @@ Research Assistant, etc.
 
 Awards
 ======
-* Asian Society for Strucutral and Multidisciplinary Optimization Best Student Paper Award (2024)
+* Asian Society for Structural and Multidisciplinary Optimization Best Student Paper Award (2024)
 * Presentation award (Japan):
   * 最適化の理論とアルゴリズム：未来を担う若手研究者の集い2024 優秀発表賞
   * 最適化の理論とアルゴリズム：未来を担う若手研究者の集い2023 優秀発表賞
