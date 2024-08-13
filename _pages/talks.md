@@ -7,7 +7,8 @@ author_profile: true
 
 International Conference
 ======
-1. A. Nishioka and Y. Kanno. Approximations of unbounded and discontinuous generalized eigenvalue functions in topology optimization, Asian Congress of Structural and Multidisciplinary Optimization 2024, Zhengzhou, China, May 2024. (Best student paper award)
+1. A. Nishioka and Y. Kanno. Epi-convergent approximations of discontinuous generalized eigenvalue functions in topology optimization, 25th International Symposium on Mathematical Programming, Canada, July 2024.
+2. A. Nishioka and Y. Kanno. Approximations of unbounded and discontinuous generalized eigenvalue functions in topology optimization, Asian Congress of Structural and Multidisciplinary Optimization 2024, Zhengzhou, China, May 2024. (Best student paper award)
 1. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. A first-order method for large-scale eigenvalue optimization problems in topology optimization, 10th International Congress on 
 Industrial and Applied Mathematics, Japan, August 2023.
 2. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. Smoothing methods for some eigenvalue optimization problems in topology optimization, 15th World Congress of Structural and Multidisciplinary Optimization, Ireland, June 2023.
