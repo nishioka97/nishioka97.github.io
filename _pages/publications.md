@@ -21,7 +21,7 @@ Preprints
 
 Papers
 ======
-1. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. On a minimization problem of the maximum generalized eigenvalue: properties and algorithms. Computational Optimization and Applications (2024).
+1. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. On a minimization problem of the maximum generalized eigenvalue: properties and algorithms. Computational Optimization and Applications, vol. 90, pp. 303-336, (2025).
 [https://doi.org/10.1007/s10589-024-00621-4](https://doi.org/10.1007/s10589-024-00621-4)
 1. A. Nishioka and Y. Kanno. A feasible smoothing accelerated projected gradient method for nonsmooth convex optimization. Operations Research Letters, vol. 57 (2024), 107181.[https://doi.org/10.1016/j.orl.2024.107181](https://doi.org/10.1016/j.orl.2024.107181)
 1. A. Nishioka and Y. Kanno. Smoothing inertial method for worst-case robust topology optimization under load uncertainty, Structural and Multidisciplinary Optimization, vol. 66 (2023), no. 82. [https://doi.org/10.1007/s00158-023-03543-7](https://doi.org/10.1007/s00158-023-03543-7)
