@@ -12,6 +12,8 @@ Preprint
 
 Preprints
 ======
+1. A. Nishioka. Pseudo-concave optimization of the first eigenvalue of elliptic operators with application to topology optimization by homogenization. arXiv:2503.02391.
+ [https://arxiv.org/abs/2503.02391](https://arxiv.org/abs/2503.02391)
 1. A. Nishioka and Y. Kanno. Variational analysis of unbounded and discontinuous generalized eigenvalue functions with application to topology optimization. arXiv:2405.04805.
  [https://arxiv.org/abs/2405.04805](https://arxiv.org/abs/2405.04805)
 1. M. Toyoda, A. Nishioka and M. Tanaka. A unified Euler--Lagrange system for analyzing continuous-time accelerated gradient methods. arXiv:2404.03383.
