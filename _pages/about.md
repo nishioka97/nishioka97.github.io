@@ -10,14 +10,13 @@ redirect_from:
 
 * Name: Akatsuki Nishioka (西岡 暁)
 * Nationality: Japanese
-* Affiliation: Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo
-* Position: PhD student
-* Supervisor: Professor [Yoshihiro Kannno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/)
-* Research area: mathematical optimization, nonsmooth optimization, eigenvalue optimization, topology optimization, etc.
+* Affiliation: Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo
+* Position: Postdoctoral researcher (JSPS research fellow PD)
+* Research area: mathematical optimization, variational analysis, eigenvalue optimization, shape optimization, topology optimization, etc.
 
 Contact
 ========
-akatsuki_nishioka [at] mist.i.u-tokyo.ac.jp <br>
+nishioka.a.aa　[at] m.titech.ac.jp <br>
 [researchmap](https://researchmap.jp/nishioka97) <br>
 [ResearchGate](https://www.researchgate.net/profile/Akatsuki-Nishioka)
 
