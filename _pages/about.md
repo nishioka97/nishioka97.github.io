@@ -10,13 +10,13 @@ redirect_from:
 
 * Name: Akatsuki Nishioka (西岡 暁)
 * Nationality: Japanese
-* Affiliation: Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo
+* Affiliation: Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo, Japan
 * Position: Postdoctoral researcher (JSPS research fellow PD)
 * Research area: mathematical optimization, variational analysis, eigenvalue optimization, shape optimization, topology optimization, etc.
 
 Contact
 ========
-nishioka.a.aa　[at] m.titech.ac.jp <br>
+nishioka.a.aa [at] m.titech.ac.jp <br>
 [researchmap](https://researchmap.jp/nishioka97) <br>
 [ResearchGate](https://www.researchgate.net/profile/Akatsuki-Nishioka)
 
