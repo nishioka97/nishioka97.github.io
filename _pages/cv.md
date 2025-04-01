@@ -9,28 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+Career
+======
+* Apr. 2025 -- present: Postdoctoral researcher (JSPS Research Fellow PD), Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo
+
 Education
 ======
-* Apr. 2022 -- present: Ph.D. student, The University of Tokyo
-  * Department of Mathematical Informatics
-* Mar. 2022: Master in information science and technology, The University of Tokyo
-  * Department of Mathematical Informatics
-* Mar. 2020: Bachelor in engineering, Sophia University
-  * Faculty of science and technology
-  
+* Mar. 2025: Doctor in information science and technology, Department of Mathematical Informatics, Institute of Science and Technology, The University of Tokyo
+* Mar. 2022: Master in information science and technology, Department of Mathematical Informatics, Institute of Science and Technology, The University of Tokyo
+* Mar. 2020: Bachelor in engineering, Department of Engineering and Applied Sciences, Faculty of science and technology, Sophia University
 
 Research Assistant, etc.
 ======
-* Apr. 2023 -- present: Research Fellowship for Young Scientists DC2, Japan Society for the Promotion of Science (日本学術振興会 特別研究員DC2)
-* Oct. 2022 -- present: Collaborative researcher, The Institute of Statistical Mathematics (統計数理研究所 特別共同利用研究員）
-* Apr. 2022 -- present: Fellowship for Creation of Intelligent World, International Graduate Program of Innovation for Intelligent World, The University of Tokyo (東京大学 知能社会国際卓越大学院プログラム 知能社会創造フェローシップ)
-* Apr. 2022 -- present: Research Assistant in Value Exchange Engineering, Research Institute for an Inclusive Society through Engineering, The University of Tokyo (東京大学 インクルーシブ工学連携研究機構 価値交換工学RA メルカリR4Dとの共同研究)
-* Apr. 2021 -- present: Research Participant in CREST-ED3GE: Evolving Design and Discrete Differential GEometry - towards Mathematics Aided Geometric Design（CREST 設計の新パラダイムを拓く新しい離散的な曲面の幾何学 研究参加者）
+* Apr. 2023 -- Mar. 2025: Research Fellowship for Young Scientists DC2, Japan Society for the Promotion of Science.
+* Oct. 2022 -- Mar. 2025: Collaborative researcher, The Institute of Statistical Mathematics
+* Apr. 2022 -- Mar. 2025: Fellowship for Creation of Intelligent World, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
+* Apr. 2022 -- Dec. 2024: Research Assistant in Value Exchange Engineering, Research Institute for an Inclusive Society through Engineering, The University of Tokyo
+* Apr. 2021 -- Mar. 2025: Research Participant in CREST-ED3GE: Evolving Design and Discrete Differential GEometry - towards Mathematics Aided Geometric Design
 
 Awards
 ======
 * Asian Society for Structural and Multidisciplinary Optimization Best Student Paper Award (2024)
 * Presentation award (Japan):
+  * 日本オペレーションズ・リサーチ学会2025年春季研究発表会 学生優秀発表賞
   * 最適化の理論とアルゴリズム：未来を担う若手研究者の集い2024 優秀発表賞
   * 最適化の理論とアルゴリズム：未来を担う若手研究者の集い2023 優秀発表賞
   * 日本機械学会第32回設計工学・システム部門講演会 優秀講演フェロー賞（D&S2022）
