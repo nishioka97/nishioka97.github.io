@@ -19,7 +19,7 @@ Education
 * Mar. 2022: Master in information science and technology, Department of Mathematical Informatics, Institute of Science and Technology, The University of Tokyo
 * Mar. 2020: Bachelor in engineering, Department of Engineering and Applied Sciences, Faculty of science and technology, Sophia University
 
-Research Assistant, etc.
+Research Assistant, Project, etc.
 ======
 * Apr. 2023 -- Mar. 2025: Research Fellowship for Young Scientists DC2, Japan Society for the Promotion of Science.
 * Oct. 2022 -- Mar. 2025: Collaborative researcher, The Institute of Statistical Mathematics
