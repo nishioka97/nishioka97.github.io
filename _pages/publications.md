@@ -21,7 +21,7 @@ Preprints
 1. M. Toyoda, A. Nishioka and M. Tanaka. Convergence rate analysis of continuous- and discrete-time smoothing gradient algorithms. arXiv:2312.04192. 
  [https://arxiv.org/abs/2312.04192](https://arxiv.org/abs/2312.04192)
 
-Peer-reviewed papers
+Peer-Reviewed Papers
 ======
 1. A. Nishioka and Y. Kanno. Variational analysis of unbounded and discontinuous generalized eigenvalue functions with application to topology optimization. Set-Valued and Variational Analysis, vol. 33, no. 22 (2025).
  [https://doi.org/10.1007/s11228-025-00758-2](https://doi.org/10.1007/s11228-025-00758-2)
