@@ -7,7 +7,7 @@ author_profile: true
 
 International Conference
 ======
-
+1. A. Nishioka. Pseudo-concave optimization of the first eigenvalue of elliptic operators in topology optimization by homogenization, 16th World Congress of Structural and Multidisciplinary Optimization, Japan, May 2025. 
 1. A. Nishioka and Y. Kanno. Epi-convergent approximations of discontinuous generalized eigenvalue functions in topology optimization, 25th International Symposium on Mathematical Programming, Canada, July 2024.
 1. A. Nishioka and Y. Kanno. Approximations of unbounded and discontinuous generalized eigenvalue functions in topology optimization, Asian Congress of Structural and Multidisciplinary Optimization 2024, China, May 2024. (Best student paper award)
 1. A. Nishioka, M. Toyoda, M. Tanaka and Y. Kanno. A first-order method for large-scale eigenvalue optimization problems in topology optimization, 10th International Congress on 
@@ -36,3 +36,7 @@ Japanese Conference
 12. 西岡暁，寒野善博．トポロジー最適化問題に対する加速射影勾配法，日本オペレーションズ・リサーチ学会2021年秋季研究発表会，オンライン，2021年9月．
 13. 西岡暁，寒野善博．平均コンプライアンス最小化問題への加速射影勾配法の適用，日本応用数理学会第17回研究部会連合発表会，オンライン，2021年3月．
 14. 西岡暁，徐福国，申鉄龍．電力網との協調を考慮した大規模EV群充電管理策最適化問題のMFG理論による解法，SICE第7回制御部門マルチシンポジウム，徳島，2020年3月（新型コロナウイルスの影響で中止，発表原稿を投稿）．
+
+Invited Talks
+======
+1. 西岡暁．行列と微分作用素の固有値最適化，日本オペレーションズ・リサーチ学会研究部会：最適化の理論とアルゴリズム（RAOTA）第10回研究会，東京，2025年6月
