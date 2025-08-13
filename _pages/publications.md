@@ -32,6 +32,11 @@ Peer-Reviewed Papers
 1. A. Nishioka and Y. Kanno. Inertial projected gradient method for large-scale topology optimization, Japan Journal of Industrial and Applied Mathematics, vol. 40, pp. 877–905 (2023). [https://doi.org/10.1007/s13160-023-00563-0](https://doi.org/10.1007/s13160-023-00563-0)
 1. A. Nishioka and Y. Kanno. Accelerated projected gradient method with adaptive step size for compliance minimization problem, JSIAM Letters, vol. 13, pp. 33-36 (2021). [https://doi.org/10.14495/jsiaml.13.33](https://doi.org/10.14495/jsiaml.13.33)
 
+Articles
+======
+1. 西岡暁．固有値最適化と制御．計測と制御，64巻，8号　(2025)．
+ [https://doi.org/10.11499/sicejl.64.508](https://doi.org/10.11499/sicejl.64.508)
+
 <!-- 
 Proceedings
 ======
