@@ -12,6 +12,8 @@ Preprint
 
 Preprints
 ======
+1. A. Nishioka. Revisiting Invex Functions: Explicit Kernel Constructions and Applications. arXiv:2510.05523.
+ [https://arxiv.org/abs/2510.05523](https://arxiv.org/abs/2510.05523)
 1. A. Nishioka and Y. Kanno. A class of nonconvex semidefinite programming in which every KKT point is globally optimal. arXiv:2506.16739.
  [https://arxiv.org/abs/2506.16739](https://arxiv.org/abs/2506.16739)
 1. A. Nishioka. Pseudo-concave optimization of the first eigenvalue of elliptic operators with application to topology optimization by homogenization. arXiv:2503.02391.
