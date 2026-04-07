@@ -12,7 +12,8 @@ redirect_from:
 * Nationality: Japanese
 * Affiliation: Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo, Japan
 * Position: Postdoctoral researcher (JSPS research fellow PD)
-* Research area: mathematical optimization, variational analysis, eigenvalue optimization, shape optimization, topology optimization, etc.
+* Research area: mathematical optimization, variational analysis, shape optimization, topology optimization, etc.
+* Doctoral Advisor: Prof. [Yoshihiro Kanno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/)
 
 Contact
 ========
