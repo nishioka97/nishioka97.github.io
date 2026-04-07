@@ -10,10 +10,10 @@ redirect_from:
 
 * Name: Akatsuki Nishioka (西岡 暁)
 * Nationality: Japanese
-* Affiliation: Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo, Japan
+* Affiliation: [Yamashita Lab.](http://www.opt.c.titech.ac.jp/lab/index-e.html), Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo, Japan
 * Position: Postdoctoral researcher (JSPS research fellow PD)
 * Research area: mathematical optimization, variational analysis, shape optimization, topology optimization, etc.
-* Doctoral Advisor: Prof. [Yoshihiro Kanno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/) (The University of Tokyo, 2025)
+* Doctoral Advisor: Prof. [Yoshihiro Kanno](https://www.or.mist.i.u-tokyo.ac.jp/kanno/index-e.html) (The University of Tokyo, 2025)
 
 Contact
 ========
