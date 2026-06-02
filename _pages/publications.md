@@ -12,6 +12,7 @@ Preprint
 
 Preprints
 ======
+1. A. Nishioka. An Improved Lower Bound for the Three-Dimensional Blaschke--Lebesgue Problem from Spectral and Dual Perspectives. arXiv:2510.05523. [https://arxiv.org/abs/2606.01754](https://arxiv.org/abs/2606.01754)
 1. A. Nishioka. Revisiting Invex Functions: Explicit Kernel Constructions and Characterizations. arXiv:2510.05523. (formerly titled "Revisiting Invex Functions: Explicit Kernel Constructions and Applications")
  [https://arxiv.org/abs/2510.05523](https://arxiv.org/abs/2510.05523)
 1. A. Nishioka and Y. Kanno. A class of nonconvex semidefinite programming in which every KKT point is globally optimal. arXiv:2506.16739.
