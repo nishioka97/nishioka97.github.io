@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer-Reviewed Papers
-======
+# Peer-Reviewed Papers
+
 1. A. Nishioka. An Improved Lower Bound for the Three-Dimensional Blaschke--Lebesgue Problem from Spectral and Dual Perspectives. Journal of Mathematical Analysis and Applications, to appear. Available at arXiv:2606.01754. [https://arxiv.org/abs/2606.01754](https://arxiv.org/abs/2606.01754)
 1. A. Nishioka and Y. Kanno. Variational analysis of unbounded and discontinuous generalized eigenvalue functions with application to topology optimization. Set-Valued and Variational Analysis, vol. 33, no. 22 (2025).
  [https://doi.org/10.1007/s11228-025-00758-2](https://doi.org/10.1007/s11228-025-00758-2)
@@ -17,8 +17,8 @@ Peer-Reviewed Papers
 1. A. Nishioka and Y. Kanno. Inertial projected gradient method for large-scale topology optimization, Japan Journal of Industrial and Applied Mathematics, vol. 40, pp. 877–905 (2023). [https://doi.org/10.1007/s13160-023-00563-0](https://doi.org/10.1007/s13160-023-00563-0)
 1. A. Nishioka and Y. Kanno. Accelerated projected gradient method with adaptive step size for compliance minimization problem, JSIAM Letters, vol. 13, pp. 33-36 (2021). [https://doi.org/10.14495/jsiaml.13.33](https://doi.org/10.14495/jsiaml.13.33)
 
-Preprints
-======
+# Preprints
+
 1. A. Nishioka. Revisiting Invex Functions: Explicit Kernel Constructions and Characterizations. arXiv:2510.05523. (formerly titled "Revisiting Invex Functions: Explicit Kernel Constructions and Applications")
  [https://arxiv.org/abs/2510.05523](https://arxiv.org/abs/2510.05523)
 1. A. Nishioka and Y. Kanno. A class of nonconvex semidefinite programming in which every KKT point is globally optimal. arXiv:2506.16739.
@@ -26,12 +26,12 @@ Preprints
 1. A. Nishioka. Pseudo-concave optimization of the first eigenvalue of elliptic operators with application to topology optimization by homogenization. arXiv:2503.02391.
  [https://arxiv.org/abs/2503.02391](https://arxiv.org/abs/2503.02391)
 1. M. Toyoda, A. Nishioka and M. Tanaka. A unified Euler--Lagrange system for analyzing continuous-time accelerated gradient methods. arXiv:2404.03383.
- [https://arxiv.org/abs/2404.03883](https://arxiv.org/abs/2404.03383)
+ [https://arxiv.org/abs/2404.03383](https://arxiv.org/abs/2404.03383)
 1. M. Toyoda, A. Nishioka and M. Tanaka. Convergence rate analysis of continuous- and discrete-time smoothing gradient algorithms. arXiv:2312.04192. 
  [https://arxiv.org/abs/2312.04192](https://arxiv.org/abs/2312.04192)
 
-Articles
-======
+# Articles
+
 1. 西岡暁．固有値最適化と制御．計測と制御，64巻，8号　(2025)．
  [https://doi.org/10.11499/sicejl.64.508](https://doi.org/10.11499/sicejl.64.508)
 
