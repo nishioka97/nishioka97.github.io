@@ -7,7 +7,7 @@ author_profile: true
 
 # Peer-Reviewed Papers
 
-1. A. Nishioka. An Improved Lower Bound for the Three-Dimensional Blaschke--Lebesgue Problem from Spectral and Dual Perspectives. Journal of Mathematical Analysis and Applications, vol. 566, no. 131038 (2026).
+1. A. Nishioka. An Improved Lower Bound for the Three-Dimensional Blaschke--Lebesgue Problem from Spectral and Dual Perspectives. Journal of Mathematical Analysis and Applications, vol. 566(1), no. 131038 (2027).
 [https://doi.org/10.1016/j.jmaa.2026.131038](https://doi.org/10.1016/j.jmaa.2026.131038)
 1. A. Nishioka and Y. Kanno. Variational analysis of unbounded and discontinuous generalized eigenvalue functions with application to topology optimization. Set-Valued and Variational Analysis, vol. 33, no. 22 (2025).
  [https://doi.org/10.1007/s11228-025-00758-2](https://doi.org/10.1007/s11228-025-00758-2)
