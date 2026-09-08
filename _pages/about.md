@@ -20,6 +20,7 @@ Contact
 nishioka.a.2122 [at] m.isct.ac.jp　<br>
 [researchmap](https://researchmap.jp/nishioka97) <br>
 [ResearchGate](https://www.researchgate.net/profile/Akatsuki-Nishioka)
+[Google scholar](https://scholar.google.com/citations?user=CUfwuvgAAAAJ&hl=ja&oi=sra)
 
 <!-- 
 Recent News
