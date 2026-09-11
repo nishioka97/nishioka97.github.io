@@ -17,6 +17,11 @@ Industrial and Applied Mathematics, Japan, August 2023.
 1. A. Nishioka and Y. Kanno. A smoothing method for worst-case topology optimization under load uncertainty, Asian Congress of Structural and Multidisciplinary Optimization 2022, Matsue, Japan, May 2022.
 1. A. Nishioka and Y. Kanno. Accelerated projected gradient method for compliance minimization problem, 14th World Congress of Structural and Multidisciplinary Optimization, Virtual, June 2021.
 
+Invited Talks
+======
+1. 西岡暁．行列と微分作用素の固有値最適化，日本オペレーションズ・リサーチ学会研究部会：最適化の理論とアルゴリズム（RAOTA）第10回研究会，東京，2025年6月15日．
+1. 西岡暁．形状最適化における一般化凸性と未解決問題，第1回数理最適化で繋ぐ幾何解析と応用数学，名古屋，2026年9月11日．
+
 Japanese Conference
 ======
 1. 西岡暁．Invex関数のカーネルの構成について，日本オペレーションズ・リサーチ学会2026年春季研究発表会，千葉，2026年3月．
@@ -39,7 +44,3 @@ Japanese Conference
 12. 西岡暁，寒野善博．トポロジー最適化問題に対する加速射影勾配法，日本オペレーションズ・リサーチ学会2021年秋季研究発表会，オンライン，2021年9月．
 13. 西岡暁，寒野善博．平均コンプライアンス最小化問題への加速射影勾配法の適用，日本応用数理学会第17回研究部会連合発表会，オンライン，2021年3月．
 14. 西岡暁，徐福国，申鉄龍．電力網との協調を考慮した大規模EV群充電管理策最適化問題のMFG理論による解法，SICE第7回制御部門マルチシンポジウム，徳島，2020年3月（新型コロナウイルスの影響で中止，発表原稿を投稿）．
-
-Invited Talks
-======
-1. 西岡暁．行列と微分作用素の固有値最適化，日本オペレーションズ・リサーチ学会研究部会：最適化の理論とアルゴリズム（RAOTA）第10回研究会，東京，2025年6月．
