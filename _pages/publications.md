@@ -36,6 +36,11 @@ author_profile: true
 1. 西岡暁．固有値最適化と制御．計測と制御，64巻，8号　(2025)．
  [https://doi.org/10.11499/sicejl.64.508](https://doi.org/10.11499/sicejl.64.508)
 
+# Others
+
+1. A. Nishioka. Brachistochrone with Walls. Browser game, 2026.
+ [https://brachistochrone-with-walls.math-calc.workers.dev/en/](https://brachistochrone-with-walls.math-calc.workers.dev/en/)
+
 <!-- 
 Proceedings
 ======
