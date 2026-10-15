@@ -33,6 +33,8 @@ author_profile: true
 
 # Articles
 
+1. 西岡暁．凸関数の一般化とトポロジー最適化への応用．オペレーションズ・リサーチ，71巻，10号 (2026)
+ [https://orsj.org/?p=10081](https://orsj.org/?p=10081)
 1. 西岡暁．固有値最適化と制御．計測と制御，64巻，8号　(2025)．
  [https://doi.org/10.11499/sicejl.64.508](https://doi.org/10.11499/sicejl.64.508)
 
